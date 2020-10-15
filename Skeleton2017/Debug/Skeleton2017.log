@@ -1,0 +1,33 @@
+﻿  sample.cpp
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(288): warning C4091: 'typedef ': ignored on left of 'lineseg' when no variable is declared
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(292): warning C4091: 'typedef ': ignored on left of 'intersect_points' when no variable is declared
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(296): warning C4091: 'typedef ': ignored on left of 'intersects' when no variable is declared
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(301): warning C4091: 'typedef ': ignored on left of 'quad' when no variable is declared
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(488): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(649): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(652): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(655): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(692): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(761): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(924): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1038): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1039): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1040): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1055): warning C4101: 'k': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1057): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1056): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1055): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1055): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1308): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(1319): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2289): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2290): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2323): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2342): warning C4101: 'k': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2342): warning C4101: 'p': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2343): warning C4101: 's': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2342): warning C4101: 'j': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2342): warning C4101: 'i': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2344): warning C4101: 'mat_diffuse': unreferenced local variable
+c:\users\kusuma\onedrive\desktop\skeleton2017_new_zip\skeleton2017\sample.cpp(2374): warning C4101: 'jitter': unreferenced local variable
+  Skeleton2017.vcxproj -> C:\Users\Kusuma\OneDrive\Desktop\Skeleton2017_new_zip\Debug\Skeleton2017.exe
